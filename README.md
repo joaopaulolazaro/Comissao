@@ -16,7 +16,7 @@ O programa simula um sistema de folha de pagamento para vendedores. Ele realiza 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-* *Java* (JDK 17+)
+* *Java* (JDK)
 * *IntelliJ IDEA* (Ambiente de Desenvolvimento)
 * java.util.Scanner (Para leitura de dados via console)
 
